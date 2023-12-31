@@ -1,0 +1,246 @@
+/* font-family: 'Roboto', sans-serif;*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.logopart
+{
+    background-color: white -;
+    height: 110px;
+}
+
+.margin
+{margin: 0px 70px;}
+
+.content1
+{}
+
+.content1 img
+{
+    float: left;
+    margin: 9px 0px 0px 0px;
+}
+
+.content1 nav
+{
+    padding: 37px 0px 0px 481px;
+    
+}
+
+.content1 nav a
+{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    height: 14px;
+    list-style: none;
+    padding: 0px 0px;
+    margin: 9px 0px 0px 51px;
+    text-decoration: none;
+}
+
+.content1 nav button
+{
+    width: 103px;
+    height: 41px;
+    border-radius: 7px;
+    background: #e26c00;
+    color: white;
+    margin: 0px 0px 0px 27px;
+    font-size: 14px;
+    padding: 0px 0px 0px 0px;
+    border-style: none;
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.bannerpart
+{
+    background: url(banner.png) no-repeat;
+    height: 505px;
+    background-size: cover;
+    background-position: center;
+}
+
+.margin
+{}
+
+.banner
+{
+    height: 56px;
+    
+    width: 742px;
+    padding: 228px 0px 0px 0px;
+}
+
+.banner h1
+{
+    width: 94%;
+    height: 70px;
+    font-size: 30px;
+    background: black;
+    color: white;
+    padding: 0px 3px 15px 25px;
+    text-transform: uppercase;
+    opacity: 0.5;
+    padding: 16px 0px 0px 33px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.bodypart1
+{
+    height: 230px;
+    background: white;
+}
+
+
+.margin{}
+
+.body1
+{}
+
+.body1 h1
+{
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    font-weight: 400;
+    margin: 19px 454px 4px 605px;
+    font-size: 32px;
+    color: #4c3696;
+}
+
+.body1 img
+{
+    float: right;
+    padding: 21px 0px 11px 12px;
+}
+
+.body1 p
+{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding: 0px 67px 0px 170px;
+    line-height: 35px;
+    /*! margin: 0px 20px; */
+    /*! text-align: center; */
+}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.bodypart2
+{
+    background-image: url(bodypart2-background_08.png);
+    height: 380px;
+}
+
+.margin
+{}
+
+.body2
+{}
+
+.gall
+{width: 19.5%;float: left;margin: 67px 0px 0px 142px;background: #f4f3f6;padding: 0px 0px 14px 0px;}
+
+.gall img
+{}
+
+.gall h2
+{font-size: 24px;font-family: 'Roboto', sans-serif;font-weight: 400;text-align: center;padding: 13px 0px 0px 0px;}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.footerpart
+{height: 296px;
+background-color: #dd9349;
+
+}
+
+.margin
+{}
+
+.footer
+{}
+
+.footer h1
+{font-size: 36px;text-align: center;font-family: 'Roboto', sans-serif;font-weight: 400;padding: 23px 0px 22px 0px;text-transform: uppercase;color: white;}
+
+.footer p
+{font-size: 20px;font-style: italic;margin: 6px 216px;line-height: 31px;color: white;}
+
+.footer h3
+{font-weight: 400;text-align: center;font-style: italic;font-size: 26px;margin: 14px 0px 0px 0px;color: white;}
+
+.footer h4
+{font-weight: 400;text-align: center;font-style: italic;font-size: 20px;color: white;}
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.copyrightpart
+{height: 240px;background: #3f4144;}
+
+.margin
+{}
+
+.copyright
+{}
+
+.copy
+{width: 30%;float: left;margin: 22px 0px 0px 39px;}
+
+.copy h1
+{font-size: 24px;font-family: 'Roboto', sans-serif;font-weight: 400;color: white;margin: 0px 0px 18px 0px;}
+
+.copy ul
+{margin: 19px 0px 0px 0px;}
+
+.copy ul li
+{list-style: none;color: #b1b1b3;font-size: 14px;font-family: 'Roboto', sans-serif;font-weight: 400;margin: 5px 0px 0px 0px;}
+
+.copy ul li strong
+{padding-left: 68px;}
+
+
+.copy form
+{/*! margin: 0px 0px 0px 0px; */}
+
+.copy form input
+{width: 70%;margin: 12px 86px 0px 0px;height: 29px;padding: 0px 0px 0px 13px;border-radius: 3px;}
+
+.copy form button 
+{margin: 29px 0px 0px 0px;width: 20%;height: 30px;border-radius: 3px;background: #e26c00;color: white;margin: 29px 0px 0px 0px;font-size: 14px;padding: 0px 0px 0px 0px;border-style: none;}
+
+
+
+/*-----------------------------------------------------------------------------------------------------*/
+
+.lastpart
+{height: 67px;
+background: #e26c00;}
+
+ .margin{}
+
+.last{}
+
+.last p{float: left;
+margin: 35px 0px 0px 0px;
+font-family: 'Roboto', sans-serif;
+font-weight: 400;
+color: white;
+font-size: 12px;
+}
+
+.last img{float: right;margin: 22px 0px 0px 10px;width: 1.9%;}
